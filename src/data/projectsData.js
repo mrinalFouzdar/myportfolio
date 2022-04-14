@@ -26,60 +26,60 @@ export const projectsData = [{
         demo: 'https://sk-bhardwaj-medium-clone.netlify.app/',
         image: two
     },
-    {
-        id: 3,
-        projectName: '',
-        projectDesc: '',
-        tags: [],
-        code: '',
-        demo: '',
-        image: ''
-    },
-    {
-        id: 4,
-        projectName: '',
-        projectDesc: '',
-        tags: [],
-        code: '',
-        demo: '',
-        image: ''
-    },
-    {
-        id: 5,
-        projectName: '',
-        projectDesc: '',
-        tags: [],
-        code: '',
-        demo: '',
-        image: ''
-    },
-    {
-        id: 6,
-        projectName: '',
-        projectDesc: '',
-        tags: [],
-        code: '',
-        demo: '',
-        image: ''
-    },
-    {
-        id: 7,
-        projectName: '',
-        projectDesc: '',
-        tags: [],
-        code: '',
-        demo: '',
-        image: ''
-    },
-    {
-        id: 8,
-        projectName: '',
-        projectDesc: '',
-        tags: [],
-        code: '',
-        demo: '',
-        image: ''
-    },
+    // {
+    //     id: 3,
+    //     projectName: '',
+    //     projectDesc: '',
+    //     tags: [],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // },
+    // {
+    //     id: 4,
+    //     projectName: '',
+    //     projectDesc: '',
+    //     tags: [],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // },
+    // {
+    //     id: 5,
+    //     projectName: '',
+    //     projectDesc: '',
+    //     tags: [],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // },
+    // {
+    //     id: 6,
+    //     projectName: '',
+    //     projectDesc: '',
+    //     tags: [],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // },
+    // {
+    //     id: 7,
+    //     projectName: '',
+    //     projectDesc: '',
+    //     tags: [],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // },
+    // {
+    //     id: 8,
+    //     projectName: '',
+    //     projectDesc: '',
+    //     tags: [],
+    //     code: '',
+    //     demo: '',
+    //     image: ''
+    // },
 
 ]
 

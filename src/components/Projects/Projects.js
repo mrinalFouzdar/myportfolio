@@ -78,7 +78,7 @@ function Projects() {
                     projectsData.length > 3 && ( <
                         div className = "projects--viewAll" >
                         <
-                        a href = "https://github.com/vikalpvarshney1"
+                        a href = ""
                         target = "_blank" >
                         <
                         button className = { classes.viewAllBtn } >
@@ -100,4 +100,4 @@ function Projects() {
     )
 }
 
-export default Projects
+export default Projects;
