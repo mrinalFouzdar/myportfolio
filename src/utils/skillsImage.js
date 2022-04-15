@@ -74,6 +74,10 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
+import Nodejs from "../assets/svg/skills/Node.js_logo.svg"
+import Redux from "../assets/svg/skills/redux.svg"
+import Express from "../assets/svg/skills/expressjs-ar21.svg"
+import Styled from "../assets/svg/skills/styled-components-1.svg"
 
 
 export const skillsImage = (skill) => {
@@ -227,6 +231,14 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+         case "node js":
+             return  Nodejs; 
+         case "redux":
+             return Redux;  
+        case "express js":
+             return Express;
+        case "styled-components":
+             return Styled;
         default:
             break;
     }

@@ -3,11 +3,13 @@
      'CSS',
      'Javascript',
      'React',
-     'Matlab',
+     'Redux',
      'Git',
+     "Styled-Components",
+     'Node JS', 
+     "Express JS",
      'MongoDB',
-     'MySQL',
-     'Firebase',
+
  ]
 
  // Choose your skills from below. Make sure it's in the same format and spelled correctly.
