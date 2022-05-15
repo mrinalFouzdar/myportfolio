@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/MrinalResume.pdf'
+import resume from '../assets/pdf/Mrinal Resume.pdf'
 // import img from '../picprofile__2_-removebg-preview.png'
 import img2 from "..//photostudio-6-designify (1).png"
 
