@@ -111,6 +111,7 @@ function Landing() {
                     style={{
                         opacity: `${drawerOpen ? '0' : '1'}`,
                         borderColor: theme.secondary,
+                        objectFit:"contain"
                     }}
                 />
                 <div
